@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Crisan_Adriana_Lab6", "Crisan_Adriana_Lab6.csproj", "{51012B08-7E1D-4B1F-A88D-50ECBCCA8949}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoLotModel", "..\AutoLotModel\AutoLotModel.csproj", "{4C9B7A05-ADA7-4B3A-8C33-0CC37F9EE076}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{51012B08-7E1D-4B1F-A88D-50ECBCCA8949}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51012B08-7E1D-4B1F-A88D-50ECBCCA8949}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51012B08-7E1D-4B1F-A88D-50ECBCCA8949}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51012B08-7E1D-4B1F-A88D-50ECBCCA8949}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C9B7A05-ADA7-4B3A-8C33-0CC37F9EE076}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C9B7A05-ADA7-4B3A-8C33-0CC37F9EE076}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C9B7A05-ADA7-4B3A-8C33-0CC37F9EE076}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C9B7A05-ADA7-4B3A-8C33-0CC37F9EE076}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {901EA3A8-FC0D-4A34-A680-20ECD27DD0DD}
+	EndGlobalSection
+EndGlobal
